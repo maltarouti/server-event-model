@@ -8,6 +8,6 @@ A very simple python app that applies the server event stream model
 * Open the following link `http://127.0.0.1:8888/sse` or use the following code in the browser console:
 
 ```js
-const sse = new SourceEvent();
+const sse = new EventSource("http://localhost:8888/sse");
 sse.onmessage = console.log
 ```
