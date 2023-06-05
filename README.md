@@ -1,5 +1,5 @@
-# Server Event Stream model
-A very simple python app that applies the server event stream model
+# Server Event Sent model
+A very simple python app that applies the Server Sent Event model
 
 # How to run?
 * Install python in your machine
