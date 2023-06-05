@@ -1,4 +1,4 @@
-# Server Event Sent model
+# Server Sent Event model
 A very simple python app that applies the Server Sent Event model
 
 # How to run?
